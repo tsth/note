@@ -9,7 +9,7 @@ heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
-    name: 项目名称
+    name: 项目名称 
     desc: 项目详细描述
     link: https://你的项目链接
 
