@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/note/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "Java技术深耕录",
+  description: "lint 的博客",
 
   theme,
 
