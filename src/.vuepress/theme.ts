@@ -23,7 +23,7 @@ export default hopeTheme({
   navbar,
 
   // 侧边栏
-  sidebar,
+  // sidebar,
 
   // 页脚
   footer: "记录下学习的点点滴滴",
